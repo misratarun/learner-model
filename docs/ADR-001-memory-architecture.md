@@ -30,7 +30,7 @@ At the start of each subsequent session, the relevant portions of the profile ar
 
 The profile schema is the critical design decision here. It cannot be a growing text file. It needs structure:
 
-- Learning style signals, with confidence scores and observation count
+- Behavioral pattern signals, with confidence scores and observation count
 - Persistent error patterns, organized by topic and type
 - Avoidance behaviors, with the context in which they appear
 - Intervention history, what was tried and whether it produced a change
