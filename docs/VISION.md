@@ -21,7 +21,7 @@ A tutoring system that understands how a specific child learns, then teaches acc
 
 Not a generic adaptive system that adjusts difficulty based on scores. The product builds a longitudinal model of how a child thinks: what kinds of problems they avoid, where they consistently make errors, whether they need the big picture before the procedure, whether they shut down when they feel judged, whether they benefit from being nudged toward the answer or from being shown the method directly.
 
-This model is built through observation, not self-reporting. A child cannot accurately describe their own learning style. A parent cannot either. The system watches how the child behaves during problem-solving across sessions and builds the model from that behavioral signal over time.
+This model is built through observation, not self-reporting. A child cannot accurately describe their own behavioral pattern. A parent cannot either. The system watches how the child behaves during problem-solving across sessions and builds the model from that behavioral signal over time.
 
 Session one is a calibration session. The system presents the same concept through different approaches and observes which produces engagement, which produces avoidance, and which produces the right kind of struggle. The child is learning. The system is watching how.
 
